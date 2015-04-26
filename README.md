@@ -6,7 +6,7 @@ First off, you rock! It's so awesome that you want to organize a Python meetup i
 Here's a checklist that might help:
 - **Code of Conduct**
 
-   As an open community, we promote diversity and collaboration. We must adhere to the [Python Community](https://www.python.org/psf/codeofconduct/) Code of Conduct during meetups and other social events.
+   As an open community, we promote diversity and collaboration. We must adhere to the [Python Community Code of Conduct](https://www.python.org/psf/codeofconduct/) during meetups and other social events.
 
 - **Venue**
 
