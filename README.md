@@ -10,11 +10,11 @@ Here's a checklist that might help:
 
 - **Venue**
 
-   PythonPH meetups are usually held at company offices. These venues are often sponsored but if you can't find venue sponsors yet, that's totally fine. You can meet at any coffee shop or restaurant.
+   PythonPH meetups are usually held at company offices. These venues are often sponsored but if you can't find venue sponsors yet, that's totally fine. You can meet in any coffee shop, restaurant or even under a tree.
 
 - **Attendees**
 
-   You don't have to start big. Even if there are only < 10 people, it should be fine.
+   You don't have to start big. Even if there are only 2 or 3 people, it should be fine.
 
 - **Agenda**
 
