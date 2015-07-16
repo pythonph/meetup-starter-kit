@@ -20,5 +20,7 @@ Here's a checklist that might help:
 
    If you're just starting your meetup group and don't have talk topics and speakers in mind yet, it's totally fine to organize a "meet and greet" first. A Python meetup group would be very much like any hobby meetup group where people meet and hangout for a common interest (e.g board games, lan parties etc.) except we talk about Python and related tech.
 
-
 That's it! Good luck!
+
+#### Where to get help
+Have more questions about Python and how to organize meetups? Join our e-hangouts on [slack](http://slack.python.ph)! You can also shoot us an email at info@python.ph <3
