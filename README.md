@@ -23,4 +23,4 @@ Here's a checklist that might help:
 That's it! Good luck!
 
 #### Where to get help
-Have more questions about Python and how to organize meetups? Join our e-hangouts on [slack](http://slack.python.ph)! You can also shoot us an email at info@python.ph <3
+Have more questions about Python and how to organize meetups? Join our e-hangouts on [slack](https://python.ph/slack/)! You can also shoot us an email at info@python.ph <3
