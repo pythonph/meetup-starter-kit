@@ -19,6 +19,15 @@ Here's a checklist that might help:
 - [ ] **Agenda**
 
    If you're just starting your meetup group and don't have talk topics and speakers in mind yet, it's totally fine to organize a "meet and greet" first. A Python meetup group would be very much like any hobby meetup group where people meet and hangout for a common interest (e.g board games, lan parties etc.) except we talk about Python and related tech.
+ 
+- [ ] **Snacks**
+
+    For the attendees. This one's optional. Don't overthink it; simple snacks are fine!
+
+- [ ] **Internet**
+
+For demos and workshops that use APIs or packages that need to be installed online. This one's optional as well but it's great to have it.
+
 
 That's it! Good luck!
 
