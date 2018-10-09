@@ -26,7 +26,7 @@ Here's a checklist that might help:
 
 - [ ] **Internet**
 
-For demos and workshops that use APIs or packages that need to be installed online. This one's optional as well but it's great to have it.
+   For demos and workshops that use APIs or packages that need to be installed online. This one's optional as well but it's great to have it.
 
 
 That's it! Good luck!
