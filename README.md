@@ -30,7 +30,7 @@ Here's a checklist that might help:
    A Python meetup group would be very much like any hobby meetup group where people meet and hangout for a common interest (e.g board games, lan parties etc.) except we talk about Python and related tech.
 
 In general, "simple is better than complex" ;)
-The most important thing to keep in mind is you just need to start. You'll most likely meet likeminded people and come up with other ideas after your dry run :)
+The most important thing to keep in mind is you just need to start. You'll most likely meet likeminded people and come up with other ideas after your dry run.
 
 That's it! Good luck!
 
