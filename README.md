@@ -23,7 +23,7 @@ Here's a checklist that might help:
 
    If you're just starting your meetup group and don't have talk topics and speakers in mind yet, it's totally fine to organize a "meet and greet" first.
 
-   If you already have an idea for the the meetup topics and speakers, you can go ahead and invite those speakers you have in mind.
+   If you already have an idea for the meetup topics and speakers, you can go ahead and invite those speakers you have in mind.
 
    Otherwise, you can come up with an activity that doesn't require a speaker for your first meetup.
 
