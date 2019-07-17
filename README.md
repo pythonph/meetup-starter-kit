@@ -1,5 +1,8 @@
 # Python Meetup Group Starter Kit
 
+#### Purpose of this guide
+The main purpose of this guide to encourage people in other parts of the Philippines to start their own Python Meetup Group
+
 #### I would like to organize a Python meetup. How do I start?
 First off, you rock! It's so awesome that you want to organize a Python meetup in your city/place. We have good news for you -- organizing a meetup is not as complicated as it sounds.
 
@@ -25,6 +28,7 @@ Here's a checklist that might help:
    Otherwise, you can come up with an activity that doesn't require a speaker for your first meetup.
 
    A Python meetup group would be very much like any hobby meetup group where people meet and hangout for a common interest (e.g board games, lan parties etc.) except we talk about Python and related tech.
+
 
 That's it! Good luck!
 
