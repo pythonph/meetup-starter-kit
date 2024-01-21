@@ -35,4 +35,7 @@ That's it! Good luck!
 The most important thing to keep in mind is you just need to start. You'll most likely meet likeminded people and come up with other ideas after your dry run.
 
 #### Where to get help
-Have more questions about Python and how to organize meetups? Join our e-hangouts on [slack](https://python.ph/slack/)! You can also shoot us an email at info@python.ph <3
+Have more questions about Python and how to organize meetups? 
+
+- Join our e-hangouts on discord!
+- You can also shoot us an email at info@python.ph <3
